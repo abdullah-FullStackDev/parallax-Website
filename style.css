@@ -11,3 +11,8 @@ header{
     min-height: 100vh;
     z-index: 1;
 }
+.container{
+    background-color: #111;
+    color: #fff;
+    padding: 20px
+}
