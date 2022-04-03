@@ -51,17 +51,13 @@ body{
 .aa{
     display: flex;
     justify-content: center;
-    align-items: center;
+    text-align: center;
+    width: 100%;
 }
 .container-3{
     background-color: #282e34;
     color: #ddd;
     padding: 50px 80px;
-}
-.grid{
-    display: flex;
-    text-align: center;
-    justify-items: center;
 }
 .not-ma{
     background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image3.jpg);
@@ -87,13 +83,6 @@ footer{
     opacity: 0.7;
     min-height: 100vh;
     z-index: 1;
-}
-.container-5{
-    background-color: #111;
-    color: #fff;
-    padding: 20px;
-    max-width: 100%;
-    max-width: 300px;
 }
 .d-flex{
     display: flex;
