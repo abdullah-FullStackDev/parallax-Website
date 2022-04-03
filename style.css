@@ -1,6 +1,10 @@
-.img-1, .img-2, .img-3{
+.img-1{
     width: 100%;
     max-width: 100;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 body{
     opacity: 0.7;
