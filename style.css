@@ -14,5 +14,18 @@ header{
 .container{
     background-color: #111;
     color: #fff;
-    padding: 20px
+    padding: 20px;
+    width: 200px;
+    position: absolute;
+    top: 48%;
+}
+.aa{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.p{
+    position: relative;
+    top: 49%;
 }
