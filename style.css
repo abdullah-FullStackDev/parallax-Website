@@ -20,12 +20,6 @@ header{
     position: absolute;
     top: 48%;
 }
-.aa{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
-}
 .p{
     position: relative;
     top: 49%;
@@ -46,4 +40,24 @@ body{
 }
 .ff{
     font-weight: 400;
+}
+.not-m{
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image2.jpg);
+    width: 100%;
+    max-width: 100;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.7;
+    min-height: 50vh;
+    z-index: 1;
+    padding: 20px;
+    color: white;
+}
+.aa{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
