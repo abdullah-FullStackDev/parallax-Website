@@ -16,8 +16,6 @@ header{
     background-color: #111;
     color: #fff;
     padding: 20px;
-    max-width: 100%;
-    max-width: 300px;
 }
 .fz{
     font-size: 27px;
@@ -99,4 +97,10 @@ footer{
 }
 .mt{
     margin-top: 45%;
+}
+.p-text{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    width: 100%;
 }
