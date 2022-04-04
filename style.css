@@ -104,3 +104,6 @@ footer{
     text-align: center;
     width: 100%;
 }
+body{
+    overflow-x: none;
+}
